@@ -50,3 +50,7 @@ Verduras: [Repollo, Arveja, Brócoli]
 
 ## Autor
 **Karen Cristancho**
+
+📬 Contacto
+- 📧 Correo electrónico: criscacereskarenlorena@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/karencristancho
